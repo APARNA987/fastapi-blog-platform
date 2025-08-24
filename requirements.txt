@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt] # for hashing the password
+python-jose # for jwt token
+python-multipart
